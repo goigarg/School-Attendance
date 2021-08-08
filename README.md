@@ -1,5 +1,5 @@
 ### School Attendance Management
-Made with PHP
+Made with PHP & MySql
 
 ## Features 
 - Add and remove Students
