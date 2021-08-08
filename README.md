@@ -1,9 +1,9 @@
 ### School Attendance Management
 
 ## Features 
-Add and remove Students
-Mark Student Attendance
-View Attendance
+- Add and remove Students
+- Mark Student Attendance
+- View Attendance
 
 
 ## Demo
